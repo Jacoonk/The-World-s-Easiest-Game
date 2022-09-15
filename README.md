@@ -1,6 +1,6 @@
 # The World's Easiest Game!
 
- - In the World's Easiest Game there is no way to lose you can move around and will never lose.
+In the World's Easiest Game there is no way to lose you can move around and will never lose.
 Controls:
   Start --> enter
   Select --> backspace
