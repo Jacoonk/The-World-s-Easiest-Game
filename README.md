@@ -9,7 +9,4 @@ Controls:
   Right --> right arrow key
   Left -- > left arrow key
 Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priv
+
